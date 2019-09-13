@@ -17,3 +17,5 @@ response = WS.sendRequestAndVerify(findTestObject('UserRestService/ListAllUsers'
 
 response = WS.sendRequestAndVerify(findTestObject('UserRestService/ListUserSpecific'))
 
+response = WS.sendRequestAndVerify(findTestObject('UserRestService/ListUserNotFound'))
+

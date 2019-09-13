@@ -347,3 +347,103 @@
   <nestedLevel>0</nestedLevel>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-09-13T11:12:13</date>
+  <millis>1568383933568</millis>
+  <sequence>116</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>186</thread>
+  <message>HAR: C:\\Users\\EIOLBMR\\AppData\\Local\\Temp\\har2476526475678516472\\requests\\ModalContext\\0.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">092172c2-526b-4c50-9597-f1a1f8485f52</property>
+</record>
+<record>
+  <date>2019-09-13T11:13:07</date>
+  <millis>1568383987726</millis>
+  <sequence>117</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>197</thread>
+  <message>HAR: C:\\Users\\EIOLBMR\\AppData\\Local\\Temp\\har3306976376031243\\requests\\ModalContext\\1.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">ea299786-6dfa-496e-bfbd-609c836f3bd6</property>
+</record>
+<record>
+  <date>2019-09-13T11:13:20</date>
+  <millis>1568384000147</millis>
+  <sequence>133</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>210</thread>
+  <message>HAR: C:\\Users\\EIOLBMR\\AppData\\Local\\Temp\\har754776222678439520\\requests\\ModalContext\\2.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">f98f22be-3f96-4c82-bd9a-a092561ffcab</property>
+</record>
+<record>
+  <date>2019-09-13T11:13:30</date>
+  <millis>1568384010014</millis>
+  <sequence>150</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>223</thread>
+  <message>HAR: C:\\Users\\EIOLBMR\\AppData\\Local\\Temp\\har8436000866765075720\\requests\\ModalContext\\3.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">5a49b7c2-38a6-4034-bdfa-8fb63a476fe8</property>
+</record>
+<record>
+  <date>2019-09-13T11:58:39</date>
+  <millis>1568386719701</millis>
+  <sequence>399</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>364</thread>
+  <message>HAR: C:\\Users\\EIOLBMR\\AppData\\Local\\Temp\\har8853517882480539967\\requests\\ModalContext\\4.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">1c91eefa-be3c-4664-a699-750231826783</property>
+</record>
+<record>
+  <date>2019-09-13T11:59:02</date>
+  <millis>1568386742055</millis>
+  <sequence>400</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>373</thread>
+  <message>HAR: C:\\Users\\EIOLBMR\\AppData\\Local\\Temp\\har2339441283171707580\\requests\\ModalContext\\5.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">dabc0c42-f735-4878-bb26-b829f6966fa2</property>
+</record>
+<record>
+  <date>2019-09-13T11:59:13</date>
+  <millis>1568386753149</millis>
+  <sequence>412</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>388</thread>
+  <message>HAR: C:\\Users\\EIOLBMR\\AppData\\Local\\Temp\\har5859057589284780060\\requests\\ModalContext\\6.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">c4366149-ddbd-437e-812b-1dc010273c8f</property>
+</record>
+<record>
+  <date>2019-09-13T11:59:31</date>
+  <millis>1568386771800</millis>
+  <sequence>425</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>402</thread>
+  <message>HAR: C:\\Users\\EIOLBMR\\AppData\\Local\\Temp\\har1580869507152749322\\requests\\ModalContext\\7.har</message>
+  <nestedLevel>0</nestedLevel>
+  <property name="harId">be5bec40-5cd9-4181-8198-80cb758b0bc5</property>
+</record>
+</log>
