@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description>Lista os dados do usuário 2</description>
-   <name>ListUserEspecific</name>
+   <name>ListAllUsers</name>
    <tag></tag>
    <elementGuidId>574e4951-977c-422e-aa62-e90d46c391e1</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>
@@ -12,7 +12,7 @@
    <httpBodyType></httpBodyType>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
-   <restUrl>https://reqres.in/api/users?page=2</restUrl>
+   <restUrl>https://reqres.in/api/users/2</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
@@ -36,6 +36,6 @@ WS.verifyResponseStatusCode(response, 200)
 
 assertThat(response.getStatusCode()).isEqualTo(200)
 
-WS.verifyElementPropertyValue(response, 'data[1].first_name', 'Lindsay')</verificationScript>
+WS.verifyElementPropertyValue(response, 'data.email', 'janet.weaver@reqres.in')</verificationScript>
    <wsdlAddress></wsdlAddress>
 </WebServiceRequestEntity>
